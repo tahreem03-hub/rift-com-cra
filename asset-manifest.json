@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rift-com-cra/static/css/main.d5fce5d5.css",
+    "main.js": "/rift-com-cra/static/js/main.2583ea80.js",
+    "static/js/453.87d45270.chunk.js": "/rift-com-cra/static/js/453.87d45270.chunk.js",
+    "index.html": "/rift-com-cra/index.html",
+    "main.d5fce5d5.css.map": "/rift-com-cra/static/css/main.d5fce5d5.css.map",
+    "main.2583ea80.js.map": "/rift-com-cra/static/js/main.2583ea80.js.map",
+    "453.87d45270.chunk.js.map": "/rift-com-cra/static/js/453.87d45270.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5fce5d5.css",
+    "static/js/main.2583ea80.js"
+  ]
+}
